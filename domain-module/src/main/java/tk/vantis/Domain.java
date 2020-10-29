@@ -1,5 +1,5 @@
 package tk.vantis;
 
-@AnnotationOne
+@AnnotationTwo
 public class Domain {
 }
