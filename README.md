@@ -2,11 +2,12 @@
 
 项目依赖关系
 
+```
 test-module:0.0.1-SNAPSHOT
 |-annotation-module:0.0.1
 \-domain-module:0.0.1-SNAPSHOT
   \-annotation-module:0.0.2
-
+```
 
 Maven jar引入默认处理策略
 1. 最短路径优先
